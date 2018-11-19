@@ -43,10 +43,10 @@ markdown:     kramdown
 permalink:    pretty
 
 widgets:
-  - title: About
+  - title: O nas
     url: about
     archor: true
-  - title: Features
+  - title: Oferta
     url: features
     archor: true
   - title: Docs
@@ -55,7 +55,7 @@ widgets:
   - title: License
     url: license
     archor: true
-  - title: Contact
+  - title: Kontakt
     url: contact
     archor: true
   - title: Blog
