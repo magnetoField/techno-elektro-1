@@ -52,13 +52,10 @@ widgets:
   - title: Docs
     url: docs
     archor: true
-  - title: License
-    url: license
-    archor: true
   - title: Kontakt
     url: contact
     archor: true
-  - title: Blog
-    url: blog
-  - title: Page
-    url: page
+#  - title: Blog
+#    url: blog
+#  - title: Page
+#    url: page
