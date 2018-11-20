@@ -1,16 +1,16 @@
 
 # Setup
 title:               TechnoElektro
-email:               example@gmail.com
-tagline:             Smart Home Serwis
+email:               technoelektro.pl@gmail.com
+tagline:             Smart Home Services
 url:                 "https://magnetofield.github.io/techno-elektro-1/" # insert your site's URL
 baseurl:             "https://magnetofield.github.io/techno-elektro-1/"
 
 # About/contact
 author: # you can edit these to be your personal details
-  name:              Jakub Rachoń
-  url:               https://twitter.com/rachan
-  email:
+  name:              Techno Elektro
+  url:               https://twitter.com/technoelektro1
+  email:             technoelektro.pl@gmail.com
 
 # Google services
 google_verification:
@@ -23,9 +23,9 @@ bing_verification:
 
 # Social
 github_username: thundergolfer
-twitter_username: 3rdwave_themes
+twitter_username: technoelektro1
 instagram_username: kevin/
-facebook: 3rdwavethemes/
+facebook: TechnoElektroPl/
 linkedin_username: xiaoying
 dribbble_username: Xiaoying
 
