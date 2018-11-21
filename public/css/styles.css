@@ -1,7 +1,8 @@
-/*   
+/*
  * Template Name: devAid - Responsive Website Template for developers
  * Version: 1.0
  * Author: Xiaoying Riley at 3rd Wave Media
+ * Modified by: Jakub Rachon
  * Website: http://themes.3rdwavemedia.com/
  * Twitter: @3rdwave_themes
 */
@@ -543,6 +544,143 @@ pre code {
   color: #fff;
 }
 .contact .social-icons a .fa:before {
+  font-size: 26px;
+  text-align: center;
+  padding: 0;
+}
+/* ======= Callme Section ======= */
+.callme {
+  padding: 80px 0;
+  background: #17baef;
+  color: #fff;
+}
+.callme .callme-inner {
+  max-width: 760px;
+  margin: 0 auto;
+}
+.callme .title {
+  color: #074f66;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+.callme .intro {
+  margin-bottom: 60px;
+}
+.callme a {
+  color: #074f66;
+}
+.callme a:hover {
+  color: #042a36;
+}
+.callme .author-message {
+  position: relative;
+  margin-bottom: 60px;
+}
+.callme .author-message .profile {
+  position: absolute;
+  left: 30px;
+  top: 15px;
+  width: 100px;
+  height: 100px;
+}
+.callme .author-message .profile img {
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+.callme .author-message .speech-bubble {
+  margin-left: 155px;
+  background: #10b2e7;
+  color: #074f66;
+  padding: 30px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  -ms-border-radius: 4px;
+  -o-border-radius: 4px;
+  border-radius: 4px;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  position: relative;
+}
+.callme .author-message .speech-bubble .sub-title {
+  color: #074f66;
+  font-size: 16px;
+  margin-top: 0;
+  margin-bottom: 30px;
+}
+.callme .author-message .speech-bubble a {
+  color: #fff;
+}
+.callme .author-message .speech-bubble:after {
+  position: absolute;
+  left: -10px;
+  top: 60px;
+  content: "";
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent;
+  border-right: 10px solid #10b2e7;
+}
+.callme .author-message .speech-bubble .source {
+  margin-top: 30px;
+}
+.callme .author-message .speech-bubble .source a {
+  color: #074f66;
+}
+.callme .author-message .speech-bubble .source .title {
+  color: #0c86ae;
+}
+.callme .info .sub-title {
+  color: #0e98c5;
+  margin-bottom: 30px;
+  margin-top: 0;
+}
+.callme .social-icons {
+  list-style: none;
+  padding: 10px 0;
+  margin-bottom: 0;
+  display: inline-block;
+  margin: 0 auto;
+}
+.callme .social-icons li {
+  float: left;
+}
+.callme .social-icons li.last {
+  margin-right: 0;
+}
+.callme .social-icons a {
+  display: inline-block;
+  background: #0c86ae;
+  width: 48px;
+  height: 48px;
+  text-align: center;
+  padding-top: 12px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+  border-radius: 50%;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  margin-right: 8px;
+  float: left;
+}
+.callme .social-icons a:hover {
+  background: #e6ad14;
+}
+.callme .social-icons a .fa {
+  color: #fff;
+}
+.callme .social-icons a .fa:before {
   font-size: 26px;
   text-align: center;
   padding: 0;
