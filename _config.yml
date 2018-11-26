@@ -49,14 +49,14 @@ widgets:
   - title: Oferta
     url: features
     archor: true
-  - title: Docs
+  - title: Smart Home
     url: docs
     archor: true
   - title: Kontakt
     url: contact
     archor: true
-  - title: calendar
-    url: calendar
+#  - title: calendar
+#    url: calendar
 #  - title: Blog
 #    url: blog
 #  - title: Page
