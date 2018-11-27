@@ -190,6 +190,7 @@ pre code {
   font-size: 96px;
   color: #074f66;
   margin-top: 0;
+  max-width: 680px;
 }
 .promo .title .highlight {
   color: #eebf3f;
