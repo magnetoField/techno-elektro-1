@@ -187,7 +187,7 @@ pre code {
   padding-top: 150px;
 }
 .promo .title {
-  font-size: 98px;
+  font-size: 20%;
   color: #074f66;
   margin-top: 0;
 }
@@ -594,7 +594,7 @@ pre code {
   background-clip: padding-box;
 }
 .callme .author-message .speech-bubble {
-  margin-left: 155px;
+  margin-left: auto;
   background: #10b2e7;
   color: #074f66;
   padding: 30px;
