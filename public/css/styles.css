@@ -195,6 +195,12 @@ pre code {
 .promo .title .highlight {
   color: #eebf3f;
 }
+
+@media screen and (min-width: 480px){
+          .promo .title .rwd-break { display: none; }
+       }
+}
+
 .promo .intro {
   font-size: 28px;
   max-width: 680px;
