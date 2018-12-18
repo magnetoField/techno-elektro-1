@@ -8,9 +8,15 @@
 */
 /* Default */
 /* ======= Base ======= */
+:root {
+    --scrollspy-height: 60px;
+}
+
 body {
   font-family: 'Lato', arial, sans-serif;
   color: #444444;
+  margin: 0 auto;
+  scroll-behavior: smooth;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
