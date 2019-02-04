@@ -1,5 +1,8 @@
 jQuery(document).ready(function($) {
 
+  /* ======= Cookie Policy ======= */
+  $.cookiepolicy();
+
     /* ======= Scrollspy ======= */
     $('body').scrollspy({ target: '#header', offset: 400});
 
