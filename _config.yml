@@ -43,11 +43,14 @@ markdown:     kramdown
 permalink:    pretty
 
 widgets:
-  - title: O nas
-    url: about
+  - title: Elektryk
+    url: elektryk
     archor: true
   - title: Oferta
     url: features
+    archor: true
+  - title: O nas
+    url: about
     archor: true
   - title: Smart Home
     url: docs
